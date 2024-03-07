@@ -1,0 +1,10 @@
+# install PyPI libraries
+scikit-learn
+seaborn
+matplotlib
+notebook
+torchvision
+hydra
+mlflow
+numpy
+medmnist
